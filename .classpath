@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ZerLiProject_G13/OCSF/src"/>
+	<classpathentry kind="src" path="ZerLiProject_G13/Zer-Li/src"/>
+	<classpathentry kind="lib" path="C:/Users/משפחת חדד/git/ZerLiG13Beta1.21/ZerLiProject_G13/Zer-Li/mysql-connector-java-5.1.19-bin.jar"/>
+	<classpathentry kind="output" path="ZerLiProject_G13/OCSF/bin"/>
+</classpath>
